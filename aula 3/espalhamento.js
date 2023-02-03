@@ -26,4 +26,6 @@ const cliente = {
     ...cliente.enderecos[0],
 }
 
+
+
   console.log(encomenda);
