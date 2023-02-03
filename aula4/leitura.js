@@ -13,3 +13,6 @@ console.log(clienteEmString.nome);
 const objetoCliente = JSON.parse(clienteEmString);
 
 console.log(objetoCliente);
+
+
+console.log(dados);
